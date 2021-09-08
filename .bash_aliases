@@ -20,6 +20,7 @@ alias aliases="echo -e '${BLUE}extip${NC}\t\t\t- external IP address';\
                echo -e '${BLUE}bwt${NC}\t\t\t- speed test';\
                echo -e '${BLUE}rpass${NC}\t\t\t- generate random pass';\
                "
+alias a="aliases"
 
 # Enable color output to standard commands
 alias sudo='sudo '
